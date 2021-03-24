@@ -1,0 +1,10 @@
+<br />
+<b>Warning</b>:  filesize(): stat failed for https://itebooksfree.com/content/itebooksfree/files/20201027/WooCommerce%20Cookbook.pdf in <b>/home/bmmjkvtf/public_html/getfile.php</b> on line <b>28</b><br />
+<br />
+<b>Warning</b>:  md5_file(https://itebooksfree.com/content/itebooksfree/files/20201027/WooCommerce%20Cookbook.pdf): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Temporarily Unavailable
+ in <b>/home/bmmjkvtf/public_html/getfile.php</b> on line <b>29</b><br />
+<br />
+<b>Warning</b>:  filemtime(): stat failed for https://itebooksfree.com/content/itebooksfree/files/20201027/WooCommerce%20Cookbook.pdf in <b>/home/bmmjkvtf/public_html/getfile.php</b> on line <b>35</b><br />
+<br />
+<b>Warning</b>:  readfile(https://itebooksfree.com/content/itebooksfree/files/20201027/WooCommerce%20Cookbook.pdf): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Temporarily Unavailable
+ in <b>/home/bmmjkvtf/public_html/getfile.php</b> on line <b>37</b><br />

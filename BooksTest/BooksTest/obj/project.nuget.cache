@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RChLrIrJ1RdyMPUo31Ky0bVRop0Vx3+IJABarUG4SQnCzaYRaZhEPho2OBaqoQ1hMVjG72YiVgO3w+IuMmm6oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olesm\\source\\repos\\BooksTest\\BooksTest\\BooksTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olesm\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512"
+  ],
+  "logs": []
+}

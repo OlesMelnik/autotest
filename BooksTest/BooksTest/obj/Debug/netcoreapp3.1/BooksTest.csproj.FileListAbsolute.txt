@@ -1,0 +1,15 @@
+C:\Users\olesm\source\repos\BooksTest\BooksTest\obj\Debug\netcoreapp3.1\BooksTest.csprojAssemblyReference.cache
+C:\Users\olesm\source\repos\BooksTest\BooksTest\obj\Debug\netcoreapp3.1\BooksTest.AssemblyInfoInputs.cache
+C:\Users\olesm\source\repos\BooksTest\BooksTest\obj\Debug\netcoreapp3.1\BooksTest.AssemblyInfo.cs
+C:\Users\olesm\source\repos\BooksTest\BooksTest\obj\Debug\netcoreapp3.1\BooksTest.csproj.CoreCompileInputs.cache
+C:\Users\olesm\source\repos\BooksTest\BooksTest\bin\Debug\netcoreapp3.1\BooksTest.exe
+C:\Users\olesm\source\repos\BooksTest\BooksTest\bin\Debug\netcoreapp3.1\BooksTest.deps.json
+C:\Users\olesm\source\repos\BooksTest\BooksTest\bin\Debug\netcoreapp3.1\BooksTest.runtimeconfig.json
+C:\Users\olesm\source\repos\BooksTest\BooksTest\bin\Debug\netcoreapp3.1\BooksTest.runtimeconfig.dev.json
+C:\Users\olesm\source\repos\BooksTest\BooksTest\bin\Debug\netcoreapp3.1\BooksTest.dll
+C:\Users\olesm\source\repos\BooksTest\BooksTest\bin\Debug\netcoreapp3.1\BooksTest.pdb
+C:\Users\olesm\source\repos\BooksTest\BooksTest\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\olesm\source\repos\BooksTest\BooksTest\obj\Debug\netcoreapp3.1\BooksTest.csproj.CopyComplete
+C:\Users\olesm\source\repos\BooksTest\BooksTest\obj\Debug\netcoreapp3.1\BooksTest.dll
+C:\Users\olesm\source\repos\BooksTest\BooksTest\obj\Debug\netcoreapp3.1\BooksTest.pdb
+C:\Users\olesm\source\repos\BooksTest\BooksTest\obj\Debug\netcoreapp3.1\BooksTest.genruntimeconfig.cache
