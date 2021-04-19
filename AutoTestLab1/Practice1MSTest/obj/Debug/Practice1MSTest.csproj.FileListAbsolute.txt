@@ -1,0 +1,13 @@
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\bin\Debug\Practice1MSTest.dll
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\bin\Debug\Practice1MSTest.pdb
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\obj\Debug\Practice1MSTest.csproj.CoreCompileInputs.cache
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\obj\Debug\Practice1MSTest.csproj.CopyComplete
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\obj\Debug\Practice1MSTest.dll
+C:\Users\olesm\source\repos\AutoTestLab1\Practice1MSTest\obj\Debug\Practice1MSTest.pdb
