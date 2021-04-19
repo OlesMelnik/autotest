@@ -1,0 +1,61 @@
+2021-04-19 21:04:02.5637  INFO Starting test: SampleTest
+2021-04-19 21:04:02.6260 TRACE > Set up AtataContext
+2021-04-19 21:04:02.7160 TRACE - Use: "Atata.json" config
+2021-04-19 21:04:02.7167 TRACE - Use: "Atata.local.json" config
+2021-04-19 21:04:02.7170 TRACE - Set: BaseUrl=https://rozetka.com.ua/
+2021-04-19 21:04:02.7217 TRACE - Set: ElementFindTimeout=5s; ElementFindRetryInterval=0.5s
+2021-04-19 21:04:02.7221 TRACE - Set: WaitingTimeout=5s; WaitingRetryInterval=0.5s
+2021-04-19 21:04:02.7223 TRACE - Set: VerificationTimeout=5s; VerificationRetryInterval=0.5s
+2021-04-19 21:04:02.7232 TRACE - Set: Culture=en-US
+2021-04-19 21:04:02.7571 TRACE - Set: DriverService=ChromeDriverService on port 59349
+2021-04-19 21:04:06.0142 TRACE - Set: Driver=ChromeDriver (alias=chrome)
+2021-04-19 21:04:06.2310 TRACE < Set up AtataContext (3.391s)
+2021-04-19 21:04:06.3780  INFO Go to "Page 1" page
+2021-04-19 21:04:06.5087  INFO Go to URL "https://rozetka.com.ua/"
+2021-04-19 21:04:18.4586  INFO > Set "apple macbook 13" to "Search" text input
+2021-04-19 21:04:18.4901 TRACE - > Execute behavior ValueSetUsingClearAndSendKeysAttribute against "Search" text input
+2021-04-19 21:04:18.6273 TRACE - - > Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' search-form__input ')]/descendant-or-self::input[@type='text' or not(@type)]" in ChromeDriver
+2021-04-19 21:04:19.3062 TRACE - - < Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' search-form__input ')]/descendant-or-self::input[@type='text' or not(@type)]" in ChromeDriver (0.674s) >> Element { Id=bc9147cf-b438-4093-af79-dad30fde7410 }
+2021-04-19 21:04:19.3114 TRACE - - > Clear element { Id=bc9147cf-b438-4093-af79-dad30fde7410 }
+2021-04-19 21:04:19.4118 TRACE - - < Clear element { Id=bc9147cf-b438-4093-af79-dad30fde7410 } (0.100s)
+2021-04-19 21:04:19.4136 TRACE - - > Send keys "apple macbook 13" to element { Id=bc9147cf-b438-4093-af79-dad30fde7410 }
+2021-04-19 21:04:20.2529 TRACE - - < Send keys "apple macbook 13" to element { Id=bc9147cf-b438-4093-af79-dad30fde7410 } (0.839s)
+2021-04-19 21:04:20.2536 TRACE - < Execute behavior ValueSetUsingClearAndSendKeysAttribute against "Search" text input (1.763s)
+2021-04-19 21:04:20.2539  INFO < Set "apple macbook 13" to "Search" text input (1.795s)
+2021-04-19 21:04:20.2575  INFO > Click "Search" button
+2021-04-19 21:04:20.2643 TRACE - > Execute behavior ClickUsingClickMethodAttribute against "Search" button
+2021-04-19 21:04:20.3479 TRACE - - > Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' search-form__submit ')]/descendant-or-self::*[self::input[@type='button' or @type='submit' or @type='reset'] or self::button]" in ChromeDriver
+2021-04-19 21:04:20.4242 TRACE - - < Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' search-form__submit ')]/descendant-or-self::*[self::input[@type='button' or @type='submit' or @type='reset'] or self::button]" in ChromeDriver (0.076s) >> Element { Id=262f6b1c-ed18-4f3f-9459-87158e13bcb8 }
+2021-04-19 21:04:20.4261 TRACE - - > Click element { Id=262f6b1c-ed18-4f3f-9459-87158e13bcb8 }
+2021-04-19 21:04:21.3841 TRACE - - < Click element { Id=262f6b1c-ed18-4f3f-9459-87158e13bcb8 } (0.958s)
+2021-04-19 21:04:21.3849 TRACE - < Execute behavior ClickUsingClickMethodAttribute against "Search" button (1.120s)
+2021-04-19 21:04:21.3854  INFO < Click "Search" button (1.127s)
+2021-04-19 21:04:21.4184  INFO Go to "Page 1" page
+2021-04-19 21:04:21.4645 TRACE > Execute behavior ContentSourceAttribute { Source=Text } against "Price" element
+2021-04-19 21:04:21.4788 TRACE - > Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' goods-tile__price ')]/descendant-or-self::*" in ChromeDriver
+2021-04-19 21:04:28.7903 TRACE - < Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' goods-tile__price ')]/descendant-or-self::*" in ChromeDriver (7.311s) >> Element { Id=c04fc13a-9200-4a65-af3a-6676c1bf95be }
+2021-04-19 21:04:29.1992 TRACE < Execute behavior ContentSourceAttribute { Source=Text } against "Price" element (7.734s) >> "33 999 ₴"
+2021-04-19 21:04:29.2079  INFO Go to "Page 1" page
+2021-04-19 21:04:29.2152  INFO > Click "Good" link
+2021-04-19 21:04:29.2166 TRACE - > Execute behavior ClickUsingClickMethodAttribute against "Good" link
+2021-04-19 21:04:29.2184 TRACE - - > Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' goods-tile__inner ')]/descendant-or-self::a" in ChromeDriver
+2021-04-19 21:04:29.3154 TRACE - - < Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' goods-tile__inner ')]/descendant-or-self::a" in ChromeDriver (0.097s) >> Element { Id=5a716d44-6f4a-4962-ad2b-79ca9a165287 }
+2021-04-19 21:04:29.3161 TRACE - - > Click element { Id=5a716d44-6f4a-4962-ad2b-79ca9a165287 }
+2021-04-19 21:04:29.6154 TRACE - - < Click element { Id=5a716d44-6f4a-4962-ad2b-79ca9a165287 } (0.299s)
+2021-04-19 21:04:29.6161 TRACE - < Execute behavior ClickUsingClickMethodAttribute against "Good" link (0.399s)
+2021-04-19 21:04:29.6166  INFO < Click "Good" link (0.401s)
+2021-04-19 21:04:29.6202  INFO Go to "Page 2" page
+2021-04-19 21:04:29.6512 TRACE > Execute behavior ContentSourceAttribute { Source=Text } against "Price" element
+2021-04-19 21:04:29.6526 TRACE - > Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' product-prices__big ')]/descendant-or-self::*" in ChromeDriver
+2021-04-19 21:04:36.0770 TRACE - < Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' product-prices__big ')]/descendant-or-self::*" in ChromeDriver (6.424s) >> Element { Id=715f97c9-4d94-44e5-8692-ae993fa860da }
+2021-04-19 21:04:36.1818 TRACE < Execute behavior ContentSourceAttribute { Source=Text } against "Price" element (6.530s) >> "33 999₴"
+2021-04-19 21:04:36.1838  INFO Go to URL "https://rozetka.com.ua/search/?text=apple macbook 13"
+2021-04-19 21:04:41.7029  INFO Go to "Page 1" page
+2021-04-19 21:04:41.7150 TRACE > Execute behavior ContentSourceAttribute { Source=Text } against "Price" element
+2021-04-19 21:04:41.7165 TRACE - > Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' goods-tile__price ')]/descendant-or-self::*" in ChromeDriver
+2021-04-19 21:04:42.0420 TRACE - < Find visible element by XPath ".//*[contains(concat(' ', normalize-space(@class), ' '), ' goods-tile__price ')]/descendant-or-self::*" in ChromeDriver (0.325s) >> Element { Id=0054a83f-dfcc-48d2-b571-10c5fe588b38 }
+2021-04-19 21:04:42.0913 TRACE < Execute behavior ContentSourceAttribute { Source=Text } against "Price" element (0.376s) >> "33 999 ₴"
+2021-04-19 21:04:42.7721  INFO > Clean up AtataContext
+2021-04-19 21:04:44.0311  INFO < Clean up AtataContext (1.258s)
+2021-04-19 21:04:44.1113  INFO Finished test (41.617s)
+2021-04-19 21:04:44.1124  INFO Pure test execution time: 35.976s

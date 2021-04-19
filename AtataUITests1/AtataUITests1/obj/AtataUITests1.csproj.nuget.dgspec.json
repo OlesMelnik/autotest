@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\olesm\\source\\repos\\AtataUITests1\\AtataUITests1\\AtataUITests1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\olesm\\source\\repos\\AtataUITests1\\AtataUITests1\\AtataUITests1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olesm\\source\\repos\\AtataUITests1\\AtataUITests1\\AtataUITests1.csproj",
+        "projectName": "AtataUITests1",
+        "projectPath": "C:\\Users\\olesm\\source\\repos\\AtataUITests1\\AtataUITests1\\AtataUITests1.csproj",
+        "packagesPath": "C:\\Users\\olesm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olesm\\source\\repos\\AtataUITests1\\AtataUITests1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olesm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Atata": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "Atata.Configuration.Json": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Atata.WebDriverExtras": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Atata.WebDriverSetup": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
